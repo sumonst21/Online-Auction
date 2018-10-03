@@ -1,0 +1,149 @@
+[05-Nov-2017 11:15:15 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 36
+[08-Nov-2017 21:20:06 Asia/Kolkata] PHP Fatal error:  Call to undefined method CI_Loader::models() in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 11
+[08-Nov-2017 21:22:34 Asia/Kolkata] PHP Fatal error:  Call to undefined function result_array() in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 95
+[08-Nov-2017 21:27:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 13
+[09-Nov-2017 12:09:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 96
+[09-Nov-2017 12:10:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 96
+[09-Nov-2017 12:11:17 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 96
+[09-Nov-2017 12:11:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''errors' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in /home/codeelec/public_html/nnbid/application/controllers/Auth.php on line 285
+[09-Nov-2017 12:13:06 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:13:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:14:13 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:14:16 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:15:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:16:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 246
+[09-Nov-2017 12:17:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '$contact_profile' (T_VARIABLE), expecting '(' in /home/codeelec/public_html/nnbid/application/views/auth/login_form.php on line 247
+[25-Dec-2017 13:08:20 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:08:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:08:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:08:43 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:13:29 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:13:55 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:13:58 Asia/Kolkata] PHP Fatal error:  Call to a member function row_array() on a non-object in /home/codeelec/public_html/nnbid/application/views/selectLot.php on line 9
+[25-Dec-2017 13:43:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:27 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:28 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:30 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:33 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:36 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:37 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:38 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:40 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:41 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:42 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:43 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:44 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:45 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:46 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:47 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:48 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:49 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:50 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:51 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:52 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:55 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:58 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:43:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:44:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:44:00 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-Dec-2017 13:44:54 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/codeelec/public_html/nnbid/application/controllers/ViewAuction.php on line 119
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:05 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php): failed to open stream: No such file or directory in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Warning:  include(): Failed opening '/home/codeelec/public_html/nnbid/application/views/errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/Exceptions.php on line 268
+[25-May-2018 15:17:06 Asia/Kolkata] PHP Fatal error:  require_once(): Failed opening required '/home/codeelec/public_html/nnbid/system/core/compat/mbstring.php' (include_path='.:/opt/alt/php54/usr/share/pear:/opt/alt/php54/usr/share/php') in /home/codeelec/public_html/nnbid/system/core/CodeIgniter.php on line 287
+[02-Jun-2018 11:21:59 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/codeelec/public_html/nnbid/application/views/dashboard.php on line 13
+[02-Jun-2018 11:22:34 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '[', expecting ',' or ';' in /home/codeelec/public_html/nnbid/application/views/dashboard.php on line 13
+[02-Jun-2018 12:26:53 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"users"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/codeelec/public_html/nnbid/application/models/Common_model.php on line 44
+[02-Jun-2018 12:27:08 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"users"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/codeelec/public_html/nnbid/application/models/Common_model.php on line 44
+[02-Jun-2018 12:27:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"users"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/codeelec/public_html/nnbid/application/models/Common_model.php on line 44
+[02-Jun-2018 12:27:32 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"users"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/codeelec/public_html/nnbid/application/models/Common_model.php on line 44
+[02-Jun-2018 12:32:21 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '"users"' (T_CONSTANT_ENCAPSED_STRING), expecting '&' or variable (T_VARIABLE) in /home/codeelec/public_html/nnbid/application/models/Common_model.php on line 44
+[03-Jun-2018 12:04:51 Asia/Kolkata] PHP Fatal error:  Call to undefined function NOW() in /home/codeelec/public_html/nnbid/application/controllers/Welcome.php on line 27
+[03-Jun-2018 12:06:39 Asia/Kolkata] PHP Fatal error:  Call to undefined function DateTime() in /home/codeelec/public_html/nnbid/application/controllers/Welcome.php on line 27
