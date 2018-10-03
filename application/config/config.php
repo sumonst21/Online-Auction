@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://www.nnbid.com/';
+$config['base_url'] = '.';
 
-$config['asset_url'] = 'http://www.nnbid.com/assets/';
+$config['asset_url'] = '.';
 /*
 |--------------------------------------------------------------------------
 | Index File
